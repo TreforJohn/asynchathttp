@@ -6,6 +6,7 @@ this is a clone of the python 'httpserver.py' file from shuckc/printerface and d
 Following to be updated: #######
 
 * `asynchathttpserver.py` simple http server using asynchat
+*  'proxyhttpserver.py'
 
     $ wget --no-check-certificate https://pypi.python.org/packages/source/s/setuptools/setuptools-1.4.2.tar.gz
     $ tar -xvf setuptools-1.4.2.tar.gz
